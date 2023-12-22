@@ -161,7 +161,7 @@ public abstract class ModGameMenu : ModContent
                  type == typeof(GameEventsScreen) || 
                  type == typeof(CollectionEventUI) || 
                  type == typeof(PlaySocialScreen) ||
-                 type == typeof(HeroInGameScreen)) 
+                 type == typeof(HeroInGameScreen))) 
             {
                 continue;
             }
